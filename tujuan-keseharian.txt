@@ -1,6 +1,6 @@
-tujuan Keseharian saya:
+tujuan Keseharian:
 - akan konsisten 4 jam ngodingnya dalam sehari
 - target waktu 4 bulan kedepan sudah bisa menguasai semua front-end jika konsisten
-- target berikutnya back-end
-- konsisten buat project kecil
-- semoga target-target yang di buat tercapai
+- target berikutnya back-end minimal ngerti php dulu setelah itu database dll
+- konsisten buat project kecil tiap kali belajar
+- berdoa dulu sebelum belajar
