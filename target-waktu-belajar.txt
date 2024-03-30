@@ -1,10 +1,10 @@
 Target time studies:
 - HTML
-   ^ 15 hari = 1 hari 4 jam x 15 hari
+   ^ 15 hari = 1 hari 4 jam x 15 hari = total 60 jam per 15 hari tanpa istirahat
 - CSS
-   ^ 15 hari = 1 hari 5 jam x 15 hari
+   ^ 15 hari = 1 hari 5 jam x 15 hari = total 75 jam per 15 hari tanpa istirahat
 - JS
-   ^ 30 hari = 1 hari 3 jam x 30 hari
+   ^ 30 hari = 1 hari 3 jam x 30 hari = total 90 jam per 30 hari tanpa istirahat
 - project setiap selesai belajar
    * HTML
    * CSS
