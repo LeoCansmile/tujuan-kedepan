@@ -1,0 +1,5 @@
+tujuan Keseharian saya:
+- akan konsisten 4 jam ngodingnya dalam sehari
+- target waktu 4 bulan kedepan sudah bisa menguasai semua front-end jika konsisten
+- target berikutnya back-end
+- konsisten buat project kecil
