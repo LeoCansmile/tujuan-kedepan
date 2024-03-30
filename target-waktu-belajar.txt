@@ -1,0 +1,6 @@
+Target time studies:
+- Belajar HTML dalam 15 hari dengan 4 jam sehari sudah bisa
+- Belajar CSS dalam 15 hari dengan 4 jam sehari sudah bisa
+- Belajar JS dalam 1 bulan dengan 3-5 jam sehari sudah menguasai
+- push project web kecil-kecilan setiap selesai belajar apa yang udah di pelajari
+    * Seperti html, css, dan js
