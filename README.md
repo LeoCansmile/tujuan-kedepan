@@ -1,2 +1,2 @@
 # tujuan-kedepan
-repo memuat .txt tujuan kedepan nanti buat bahan list skill
+repo ini di buat dengan tujuan ngoding nanti 
