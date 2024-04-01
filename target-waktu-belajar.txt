@@ -1,4 +1,4 @@
-Target time studies:
+Target time studi:
 - HTML
    ^ 15 hari = 1 hari 4 jam x 15 hari = total 60 jam per 15 hari tapi dengan waktu istirahat 25 menit per 1 jamnya
 - CSS
@@ -13,3 +13,4 @@ Target time studies:
    * ngeyutub
    * main game
    * scrolling sosmed
+   * dengerin musik di spotify
